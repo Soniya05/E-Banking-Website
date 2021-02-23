@@ -1,53 +1,51 @@
-# "E-Banking" Website
+<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
-## Overview of "E-Banking" Website
+<p align="center">
+<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
+</p>
 
-E-banking is a web application for online banking with lots of amazing features. Online banking provides access to the customers to their bank account through online platform with privacy and security. Customer can access it anytime using online banking application connected with database. Passwords are protected by using encryption. Only customer can change the password and information. To access any page, it's mandatory to fill required fields with correct credentials.
+## About Laravel
 
-To create this application, for frontend part we have used HTML, CSS, JavaScript, JQuery and Bootstrap. Also, we have used PHP and Laravel for backend. Laravel is a popular PHP framework. Data flow from one page to another is controlled by laravel controller. To connect with database, we have used MySQL database.
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
 
-The Project is created by [J. Siv Ram Shastri](https://www.linkedin.com/in/imsivram1999/), [Sandeep Anumalla](https://www.linkedin.com/in/sandeepanumalla/), [Subba Reddy](https://www.linkedin.com/in/subbareddy-pabbidi-4a7387170/) for Semester Project in PHP & Laravel Subject.
+- [Simple, fast routing engine](https://laravel.com/docs/routing).
+- [Powerful dependency injection container](https://laravel.com/docs/container).
+- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
+- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
+- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
+- [Robust background job processing](https://laravel.com/docs/queues).
+- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-## Tools or Softwares required to use
+Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb combination of simplicity, elegance, and innovation give you tools you need to build any application with which you are tasked.
 
-1. Can use any IDE to code; Visual Studio Code, Sublime Text or Brackets.
-2. WAMP or XAMPP servers are needed to run the web pages.
-3. Composer and Git Bash are needed to run Laravel.
-4. Composer for downloading the laravel.
-5. Git Bash supports Laravel command terminal.
+## Learning Laravel
 
+Laravel has the most extensive and thorough documentation and video tutorial library of any modern web application framework. The [Laravel documentation](https://laravel.com/docs) is thorough, complete, and makes it a breeze to get started learning the framework.
 
-## Show some :heart: and :star: the repo to support the project
+If you're not in the mood to read, [Laracasts](https://laracasts.com) contains over 900 video tutorials on a range of topics including Laravel, modern PHP, unit testing, JavaScript, and more. Boost the skill level of yourself and your entire team by digging into our comprehensive video library.
 
-### 1. Home Page 
-![1 home page](https://user-images.githubusercontent.com/42378118/78509268-9b304900-77aa-11ea-8ce8-e297aeae1056.png)
+## Laravel Sponsors
 
-### 2. Admin Panel 
-![2 Admin Panel](https://user-images.githubusercontent.com/42378118/78509306-ca46ba80-77aa-11ea-95d4-6afba14a5bc4.png)
+We would like to extend our thanks to the following sponsors for helping fund on-going Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](http://patreon.com/taylorotwell):
 
-### 3. Generating New Account Page
-![3 Generating account page](https://user-images.githubusercontent.com/42378118/78509332-e9dde300-77aa-11ea-8bc9-dd39436f7260.png)
+- **[Vehikl](http://vehikl.com)**
+- **[Tighten Co.](https://tighten.co)**
+- **[British Software Development](https://www.britishsoftware.co)**
+- **[Styde](https://styde.net)**
+- [Fragrantica](https://www.fragrantica.com)
+- [SOFTonSOFA](https://softonsofa.com/)
 
-### 4. Net Banking Credentials Page
-![4 Net Banking Creating](https://user-images.githubusercontent.com/42378118/78509348-0417c100-77ab-11ea-9508-cade812b728d.png)
+## Contributing
 
-### 5. User Login Page
-![5 User login Page](https://user-images.githubusercontent.com/42378118/78509357-1a258180-77ab-11ea-8d1e-68ab6f6f585a.png)
+Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
 
-### 6. Forgot User Name Section
-![6 Forgot user name](https://user-images.githubusercontent.com/42378118/78509381-34f7f600-77ab-11ea-91e3-6b75db616005.png)
+## Security Vulnerabilities
 
-### 7. Forgot Password Section
-![7 Forgot Password](https://user-images.githubusercontent.com/42378118/78509408-52c55b00-77ab-11ea-9390-7c7f9867249b.png)
+If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
 
-### 8. Account Summary Page
-![8 User Account Page](https://user-images.githubusercontent.com/42378118/78509446-95873300-77ab-11ea-904e-5b8aef8faa81.png)
+## License
 
-### 9. User Profile Page
-![9 User Profile page](https://user-images.githubusercontent.com/42378118/78509448-96b86000-77ab-11ea-9827-c8766f44521b.png)
-
-### 10. Updating Info Section
-![10 Updating info](https://user-images.githubusercontent.com/42378118/78509449-9750f680-77ab-11ea-9d19-b3e45814b4d8.png)
-
-### 11. Change Password Section
-![11 Change password](https://user-images.githubusercontent.com/42378118/78509450-97e98d00-77ab-11ea-8a1c-c3a084a4ca10.png)
+The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
